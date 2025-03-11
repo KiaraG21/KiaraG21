@@ -1,7 +1,7 @@
 
 
 
- <img align="right"  height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/bf/16/a0/bf16a028b29a65eebd7241df947bfffe.gif" /> </a>
+ <img align="right"  height="270px" alt="guy1" class= "guy" width="350" src="https://i.pinimg.com/originals/bf/16/a0/bf16a028b29a65eebd7241df947bfffe.gif" /> </a>
  <style> 
  .guy{
 	 float: rigth;
