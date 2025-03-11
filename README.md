@@ -5,7 +5,7 @@
  <style> 
  .guy{
 	 float: rigth;
-	 martin-top: 70px;
+	 martin-top: 20px;
  }
  
 </style>
